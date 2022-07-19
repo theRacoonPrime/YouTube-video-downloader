@@ -1,7 +1,7 @@
 from pytube import YouTube
 import os
 
-link = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+link = "https://www.youtube.com/watch?v=QITxerVv76Q"
 direction = 'Users/andrey/Downloads'
 
 
